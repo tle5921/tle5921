@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Repo 
+### Hi there 👋 Welcome to my Profile
 
 <!--
 **tle5921/tle5921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
